@@ -23,8 +23,15 @@ There are these Special Interest Groups available within our student chapter:
 * [Functional Programming](SIGS/Functional_Programming/)
 
 ### Current Officers
+CHAIR/PRESIDENT - Anthony Putman
 
-TBD
+VICE CHAIR/PRESIDENT - Christian Mudd
+
+SECRETARY/EVENTS MANAGER - Kathryn Werner
+
+TREASURER - Han Lee
+
+WEB MANAGER - Mikayla Faulkner
 
 ### Good General and Computer Science Resources
 
